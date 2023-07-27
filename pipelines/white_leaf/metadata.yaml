@@ -1,0 +1,32 @@
+blocks:
+- all_upstream_blocks_executed: true
+  color: blue
+  configuration: {}
+  downstream_blocks: []
+  executor_config: null
+  executor_type: local_python
+  has_callback: false
+  language: python
+  name: silent sky
+  retry_config: null
+  status: failed
+  type: custom
+  upstream_blocks: []
+  uuid: silent_sky
+callbacks: []
+conditionals: []
+data_integration: null
+description: null
+executor_config: {}
+executor_count: 1
+executor_type: null
+extensions: {}
+name: white leaf
+notification_config: {}
+retry_config: {}
+spark_config: {}
+tags: []
+type: python
+updated_at: '2023-07-27 12:53:08'
+uuid: white_leaf
+widgets: []
