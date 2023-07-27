@@ -1,0 +1,7 @@
+config:
+  host: host_name
+  port: "1521"
+  service: foo
+  password: password
+  user: user_name
+source: oracledb
